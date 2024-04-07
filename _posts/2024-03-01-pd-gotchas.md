@@ -12,4 +12,4 @@ print(pd.concat(d1, axis="rows"))
 d1 = {'a': pd.Series([1,2], name="id"),'b': pd.Series([2,3],name="id")}
 print(pd.concat(d1, axis="rows"))
 ```
-![](https://imgur.com/g4rpFBu)
+![](/images/pdgt1.png "Series name preserved")
