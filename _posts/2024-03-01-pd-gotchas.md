@@ -1,4 +1,4 @@
-# Gotchas in pandas
+# Gotchas in Pandas
 
 1. TOC
 {:toc}
